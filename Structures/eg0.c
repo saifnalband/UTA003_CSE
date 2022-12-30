@@ -2,7 +2,7 @@
 #include <string.h>
 
 struct Players{
-  char name[50];
+  char name[60];
   char country[50];
   int jerseyNo;
   char section;

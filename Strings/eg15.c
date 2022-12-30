@@ -35,7 +35,7 @@ void compareStrings(char* x, char* y){
 // Driver Code
 int main(void){
 	// Given strings s1 and s2
-	char s1[20] = "thapar";
+	char s1[20] = "Thapar";
 	char s2[20] = "Thapar";
 	// Function Call
 	compareStrings(s1, s2);

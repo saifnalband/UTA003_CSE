@@ -1,3 +1,6 @@
+/*
+program to display pointer and structures
+*/
 #include<stdio.h>
 
 struct Student {
